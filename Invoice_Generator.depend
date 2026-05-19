@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1764349520 source:d:\mca\mca-e-15\c programming\invoice_generator\generateinvoice.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"structures.h"
+	"generateInvoice.h"
+
+1764333238 d:\mca\mca-e-15\c programming\invoice_generator\structures.h
+
+1764173195 d:\mca\mca-e-15\c programming\invoice_generator\generateinvoice.h
+
+1764333245 source:d:\mca\mca-e-15\c programming\invoice_generator\global.c
+	<stdlib.h>
+	"structures.h"
+
+1764344539 source:d:\mca\mca-e-15\c programming\invoice_generator\login.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"login.h"
+
+1764169645 d:\mca\mca-e-15\c programming\invoice_generator\login.h
+
+1764692406 source:d:\mca\mca-e-15\c programming\invoice_generator\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"login.h"
+	"product_n.h"
+	"structures.h"
+	"generateInvoice.h"
+
+1764170616 d:\mca\mca-e-15\c programming\invoice_generator\product_n.h
+
+1764746622 source:d:\mca\mca-e-15\c programming\invoice_generator\product.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"product_n.h"
+	"structures.h"
+
